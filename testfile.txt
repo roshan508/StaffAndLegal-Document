@@ -1,1 +1,4 @@
 Hi,
+Below Menu added with date and time:
+
+10/03/2023-17:19-  Apple
